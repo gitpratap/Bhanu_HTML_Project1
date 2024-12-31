@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    display: flex;
+    gap: 36rem;
+    position: absolute;
+    color: #00adb5;
+}
+
+.container{
+   display: flex;
+   gap: 18rem;
+  padding-top: 10px;
+}
+.container.img{
+    gap: 30rem;
+}
+.x{
+    margin-top: 7rem;
+    position: absolute;
+   left: auto;
+}
+.x1{
+    margin-top: 12rem;
+    position: absolute;
+    left: 50rem;
+}
+.x2{
+    margin-top: 12rem;
+    position: absolute;
+    left: 81rem;
+}
